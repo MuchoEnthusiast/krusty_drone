@@ -3,7 +3,7 @@ use crate::tests::{
     test_flooding::*,
 };
 
-use crate::drones::KrustyCrapDrone;
+use crate::drone::drones::KrustyCrapDrone;
 
 #[cfg(test)]
 
