@@ -1,3 +1,5 @@
-pub mod drone;
+mod drone;
 
-pub mod tests;
+mod tests;
+
+pub use drone::drone::KrustyCrapDrone;
