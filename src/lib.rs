@@ -1,6 +1,3 @@
-mod drone;
+pub mod drone;
 
-mod tests;
-
-pub use drone::*;
-pub use tests::*;
+pub mod tests;
